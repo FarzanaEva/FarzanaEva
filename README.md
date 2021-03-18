@@ -23,7 +23,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=FarzanaEva)
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=FarzanaEva&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanaEva&count_private=true&theme=dracula&langs_count=3">
+</p>
+
 <br/>
 
 <!--
