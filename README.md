@@ -9,12 +9,18 @@
 ---
 ### Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/farzana-eva/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" />
 </a>
 <a target="_blank" href="https://twitter.com/IamFarZanaEva">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" />
 </a>
 <br />
+
+---
+### Languages and Tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FarzanaEva)
