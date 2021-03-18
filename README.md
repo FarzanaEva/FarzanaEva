@@ -6,9 +6,13 @@
 - 📫 How to reach me: e-mail: farzana0023@gmail.com
 - ⚡ Fun fact: Love to read romance and thriller novels, Love hiking and playing arcade games. 
 
+---
+![Github stats](https://github-readme-stats.vercel.app/api?username=FarzanaEva)
+<br/>
+
+
 ### Connect with me
-[<img align="left" alt="IamFarZanaEVa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="farzana-eva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 <!--
