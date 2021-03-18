@@ -8,7 +8,6 @@
 
 ---
 ### Connect with me
----
 <a target="_blank" href="https://www.linkedin.com/in/farzana-eva/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,6 +15,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
+
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FarzanaEva)
 <br/>
