@@ -7,17 +7,17 @@
 - ⚡ Fun fact: Love to read romance and thriller novels, Love hiking and playing arcade games. 
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=FarzanaEva)
-<br/>
-
-
 ### Connect with me
 ---
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+<a target="_blank" href="https://www.linkedin.com/in/farzana-eva/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/IamFarZanaEva">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 ---
-[1]: http://www.github.com/FarzanaEva
-[2]: https://www.linkedin.com/in/farzana-eva
+![Github stats](https://github-readme-stats.vercel.app/api?username=FarzanaEva)
+<br/>
 
 <!--
 **FarzanaEva/FarzanaEva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
