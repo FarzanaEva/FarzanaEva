@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on Semantic Image Segmentation.
+- 🔭 I’m currently working on Speech Recognition.
 - 🌱 I’m currently learning _Data Science, Computer Vision and AWS_.
-- 💬 Ask me about anything you want to know.
+- 💬 Ask me about anything related to Machine Learning (e.g. NLP).
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/farzana-eva/">LinkedIn</a> or farzana0023@gmail.com
-- ⚡ Fun fact: Love to read romance and thriller novels, Love hiking and playing arcade games. 
+- ⚡ Fun fact: Love to read romance and thriller novels, Love hiking, cooking and playing arcade games. 
 
 ---
 ### Connect with me
@@ -26,14 +26,22 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/pytorch/pytorch.png"></code>
 
 ---
+
+## Medium posts
+
+![Farzana Eva's Medium Post](https://mediumblog-cards.vercel.app/getMediumBlogs?username=farzana-eva&type=horizontal)
+
+---
+
 **Github Stats:**
 
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=FarzanaEva&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanaEva&count_private=true&theme=dracula&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanaEva&count_private=true&theme=dracula&langs_count=5">
 </p>
 
 <br/>
