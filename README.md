@@ -1,10 +1,10 @@
-### Hello World 👋
+## Hello World 👋
 
-- 🔭 I’m currently working on Speech Recognition.
-- 🌱 I’m currently learning _Data Science, Computer Vision and AWS_.
-- 💬 Ask me about anything related to Machine Learning (e.g. NLP).
+- 🔭 DevSecOps & Infrastructure Engineer with 3.5+ years focusing on cloud, automation, and security.
+- 🌱 Former Machine Learning engineer, now deepening expertise in Infrastructure Design, Terraform, Ansible, and Cloud Architecture.
+- 💬 Ask me about DevOps pipelines, cloud security, automation, and ML fundamentals.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/farzana-eva/">LinkedIn</a> or farzana0023@gmail.com
-- ⚡ Fun fact: Love to read romance and thriller novels, Love hiking, cooking and playing arcade games. 
+- ⚡ Fun fact: I love reading romance and thriller novels 📚, going on hikes 🥾 and experimenting in the kitchen 🍳. 
 
 ---
 ### Connect with me
